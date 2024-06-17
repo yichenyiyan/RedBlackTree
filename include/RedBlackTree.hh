@@ -1,3 +1,11 @@
+/******************************
+*  Github:yichenyiyan  QAQ    *
+*  							  *
+*  							  *
+*  							  *
+*******************************/
+#pragma once 
+
 #include "Node.hh"
 #include <iostream>
 

@@ -1,3 +1,11 @@
+/******************************
+*  Github:yichenyiyan  QAQ    *
+*  							  *
+*  							  *
+*  							  *
+*******************************/
+
+#pragma once 
 // 红黑树节点颜色枚举
 enum class Color { RED, BLACK };
 
